@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Api-App1/static/css/main.f573d264.chunk.css",
+    "main.js": "/React-Api-App1/static/js/main.96221f05.chunk.js",
+    "main.js.map": "/React-Api-App1/static/js/main.96221f05.chunk.js.map",
+    "runtime-main.js": "/React-Api-App1/static/js/runtime-main.aef85012.js",
+    "runtime-main.js.map": "/React-Api-App1/static/js/runtime-main.aef85012.js.map",
+    "static/css/2.f2512455.chunk.css": "/React-Api-App1/static/css/2.f2512455.chunk.css",
+    "static/js/2.7d6067e8.chunk.js": "/React-Api-App1/static/js/2.7d6067e8.chunk.js",
+    "static/js/2.7d6067e8.chunk.js.map": "/React-Api-App1/static/js/2.7d6067e8.chunk.js.map",
+    "index.html": "/React-Api-App1/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/React-Api-App1/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.f573d264.chunk.css.map": "/React-Api-App1/static/css/main.f573d264.chunk.css.map",
+    "static/js/2.7d6067e8.chunk.js.LICENSE.txt": "/React-Api-App1/static/js/2.7d6067e8.chunk.js.LICENSE.txt",
+    "static/media/logo2.9f500755.png": "/React-Api-App1/static/media/logo2.9f500755.png",
+    "static/media/spinner.11d9cde8.gif": "/React-Api-App1/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aef85012.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.7d6067e8.chunk.js",
+    "static/css/main.f573d264.chunk.css",
+    "static/js/main.96221f05.chunk.js"
+  ]
+}
